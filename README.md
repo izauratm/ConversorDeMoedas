@@ -1,4 +1,4 @@
-# 🪙 Conversor de Moedas 🪙
+#  # <h1 align="center">🪙 Conversor de Moedas 🪙</h1> 
 Um projeto Java que permite converter valores entre diferentes moedas utilizando uma API de taxas de câmbio em tempo real. 
 Desenvolvido como parte do programa **Oracle Next Education (ONE)** em parceria com a **Alura**, curso **ONE | TECH FOUNDATION - G9**, especialização **Back-End**.
 
@@ -82,7 +82,6 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sug
 - [Postman](https://www.postman.com/downloads/)
 - [API ExchangeRate](https://www.exchangerate-api.com/)
 - [IntelliJ](https://www.jetbrains.com/pt-br/)
-- [Java-Oracle: Downloads](https://www.oracle.com/br/java/technologies/downloads/)
 - [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)
   
 📎 Link para cursos ALURA: [Alura](https://www.alura.com.br/) 
