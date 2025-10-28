@@ -66,9 +66,6 @@ ConversorDeMoedas/
 
 ```
 
-
-
-
 ## 👩‍💻 Desenvolvedora
 Izaura TM - responsável pelo projeto.
 
@@ -80,7 +77,7 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sug
 ---
 
  ### 💡Links de Referência:
-- [Java Oracle]((https://www.oracle.com/br/java/technologies/downloads/))
+- [Java Oracle](https://www.oracle.com/br/java/technologies/downloads/)
 - [Biblioteca GSON](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.11.0)
 - [Postman](https://www.postman.com/downloads/)
 - [API ExchangeRate](https://www.exchangerate-api.com/)
