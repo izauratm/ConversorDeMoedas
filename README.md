@@ -20,7 +20,9 @@ Desenvolvido como parte do programa **Oracle Next Education (ONE)** em parceria 
 
 ## 🚀 Como Executar
 1. Clone o repositório:
+
 ``` git clone https://github.com/seu-usuario/ConversorDeMoedas.git```
+
 2. Navegue até o diretório:
 ```
 cd ConversorDeMoedas
@@ -31,7 +33,7 @@ javac src/conversordemoedas/*.java
 java src/conversordemoedas.Principal
    ```
 
-###💡 Certifique-se de configurar sua chave da API no arquivo CurrencyService.java.
+### 💡 Certifique-se de configurar sua chave da API no arquivo CurrencyService.java.
 
 ## 🔳 Exemplos de uso:
 - Real brasileiro para Dólar:
@@ -73,7 +75,7 @@ Izaura TM - responsável pelo projeto.
 ## 📫 Contribuições
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sugestões ou novas funcionalidades!
 
-> Este projeto foi desenvolvido como parte do programa **FASE 3 DO ONE: TECH FOUNDATION- Java e Orientação a Objetos- Desafio Challenge Conversor de Moedas** da plataforma Oracle Next Education em parceria com Alura.
+> Este projeto foi desenvolvido como parte do programa **FASE 3 DO ONE: TECH FOUNDATION- Java e Orientação a Objetos ** - Desafio Challenge Conversor de Moedas da plataforma Oracle Next Education em parceria com Alura.
 
 ---
 
@@ -84,6 +86,7 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sug
 - [API ExchangeRate](https://www.exchangerate-api.com/)
 - [IntelliJ](https://www.jetbrains.com/pt-br/)
 - [Java-Oracle: Downloads](https://www.oracle.com/br/java/technologies/downloads/)
+- [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)
   
 📎 Link para cursos ALURA: [Alura](https://www.alura.com.br/) 
 
